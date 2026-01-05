@@ -28,7 +28,7 @@ The dataset contains sales data for **141 sales executives** across **8 regions*
 * Ranchi
 * Surat
 
-  <img src="screenshots/dashboard.png" alt="Sales Performance Dashboard" width="100%"/>
+  <img src="https://github.com/omsinghwork/Sales-Performance-Excel-Dashboard/blob/main/Screenshot%202026-01-05%20200527.png" alt="Sales Performance Dashboard" width="100%"/>
 
 ### 📄 Columns Used
 
