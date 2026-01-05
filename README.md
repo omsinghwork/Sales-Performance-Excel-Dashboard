@@ -116,7 +116,7 @@ The dataset contains sales data for **141 sales executives** across **8 regions*
 
 ## 👨‍💻 Author
 
-**OM**
+**OM SINGH**
 Excel & Data Analytics Project
 
 ---
