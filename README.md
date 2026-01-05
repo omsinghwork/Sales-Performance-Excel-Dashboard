@@ -28,6 +28,8 @@ The dataset contains sales data for **141 sales executives** across **8 regions*
 * Ranchi
 * Surat
 
+  <img src="screenshots/dashboard.png" alt="Sales Performance Dashboard" width="100%"/>
+
 ### 📄 Columns Used
 
 | Column Name        | Description                          |
@@ -92,16 +94,6 @@ The dataset contains sales data for **141 sales executives** across **8 regions*
 * Slicers & Filters
 * Conditional Formatting
 * Excel Formulas
-
----
-
-## 📷 Screenshots
-
-Screenshots of the dashboard are included to showcase:
-
-* Region-wise sales performance
-* Target achievement analysis
-* Executive comparison charts
 
 ---
 
